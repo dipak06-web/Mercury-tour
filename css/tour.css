@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style: none !important;
+    text-decoration: none !important;
+    font-family: 'Albert Sans', sans-serif;
+}
+.row>*{
+    padding: 5px !important;
+}
+
+#top-header {
+    width: 100%;
+    height: auto;
+    background-color: #060328;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #fff;
+}
+
+.gmail a {
+    color: #fff;
+}
+
+.link a {
+    padding: 15px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.gmail a:hover {
+    color: #fff;
+}
+
+.link a:hover {
+    color: #fff;
+}
+
+header {
+    width: 100%;
+    height: auto;
+    background-color: #060328;
+}
+
+.form-control {
+    border-radius: 1.125rem !important;
+}
+
+.nav-item {
+    padding: 5px;
+}
+
+.nav-item a {
+    color: #fff;
+    font-size: 18px;
+}
+
+.nav-item a:hover {
+    color: #fb5607;
+    font-weight: 300;
+}
+
+.navbar-toggler {
+    color: #fff !important;
+}
+
+#banner {
+    width: 100%;
+    height: 300px;
+    background: url(../images/16.jpg);
+    background-size: 100% 100%;
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.text {
+    text-align: center;
+    padding-top: 120px;
+}
+
+#text-box {
+    width: 100%;
+    height: auto;
+}
+
+.text h2 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.text-box {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.text-box h2 {
+    font-size: 38px;
+    font-weight: 600;
+}
+
+#famous-places {
+    width: 100%;
+    height: auto;
+}
+
+.images-box {
+    position: relative;
+}
+
+.images-box img {
+    width: 100%;
+    height: 150px;
+}
+
+.img-overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 0px;
+}
+
+.img-text {
+    position: absolute;
+    top: 73px;
+    color: #fff;
+    left: 18px;
+}
+
+.img-text h4 {
+    font-size: 20px;
+}
+
+.img-text2 {
+    position: absolute;
+    top: 73px;
+    color: #fff;
+    left: 100px;
+}
+
+.img-text2 h4 {
+    font-size: 20px;
+}
+
+.img-text3 {
+    position: absolute;
+    top: 73px;
+    color: #fff;
+    left: 50px;
+}
+
+.img-text3 h4 {
+    font-size: 20px;
+}
+
+.img-text4 {
+    position: absolute;
+    top: 73px;
+    color: #fff;
+    left: 55px;
+}
+
+.img-text4 h4 {
+    font-size: 20px;
+}
+
+.img-text5 {
+    position: absolute;
+    top: 68px;
+    color: #fff;
+    left: 12px;
+}
+
+.img-text5 h4 {
+    font-size: 20px;
+}
+
+#famous-place {
+    width: 100%;
+    height: auto;
+}
+
+.famous-text {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.famous-text h3 {
+    font-size: 38px;
+    font-weight: 600;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #060328;
+    padding-bottom: 50px;
+    border-bottom: 1px solid blue;
+    margin-top: 50px;
+}
+
+.footer-text h3 {
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.footer-text p {
+    color: #fff;
+}
+
+.footer-text a {
+    color: #fff;
+    line-height: 1.9;
+}
+
+.footer-text a:hover {
+    color: #fff;
+}
+
+.icon-section {
+    padding-top: 20px;
+}
+
+.icon-section a {
+    padding: 10px;
+}
+
+.icon-section a i {
+    font-size: 25px;
+}
+.book{
+    color: red !important;
+    text-align: center !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}

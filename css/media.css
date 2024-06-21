@@ -1,0 +1,234 @@
+@media (min-width: 280px) and (max-width: 360px) {
+    .operator-text h1 {
+        font-size: 28px;
+    }
+
+    .popular-text h2 {
+        font-size: 35px;
+    }
+
+    .popular-text h4 {
+        font-size: 16px;
+        font-weight: 400;
+        top: 22px;
+        left: 17px;
+    }
+
+    .popular-img h4 {
+        font-size: 17px;
+    }
+
+    .popular-img h2 {
+        left: 70px;
+        font-size: 16px;
+    }
+
+    .popular-img2 h2 {
+        left: 0;
+        font-size: 17px;
+    }
+
+    .popular-img2 h4 {
+        position: absolute;
+        top: 122px;
+        color: #fff;
+        font-size: 17px;
+        left: 58px;
+    }
+
+    .jourenery-text h4 {
+        font-size: 17px !important;
+        left: 10px;
+        text-align: center;
+        font-weight: 400;
+    }
+
+    .jourenery-text h5 {
+        top: 134px;
+        text-align: center;
+        left: 36px;
+        font-weight: 400;
+    }
+
+    .jourenery-text2 h5 {
+        top: 128px;
+        left: 26px;
+        font-weight: 400;
+    }
+
+    .jourenery-text3 h5 {
+        top: 131px;
+        left: 35px;
+        font-weight: 400;
+    }
+
+    .btn2 {
+        width: 105px;
+    }
+
+    .btn3 {
+        width: 105px;
+    }
+
+    input[type="text"] {
+        width: auto;
+    }
+
+    .best-text h2 {
+        font-size: 35px;
+    }
+
+    .service h2 {
+        font-size: 35px;
+    }
+
+    .leading-text {
+        padding-top: 50px;
+    }
+
+    .trend-text h2 {
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 340px) and (max-width: 576px) {
+    .popular-text h2 {
+        font-size: 70px;
+    }
+
+    .popular-text h4 {
+        left: 51px;
+    }
+
+    .popular-img h4 {
+        left: 7px;
+    }
+
+    .popular-img h2 {
+        left: 180px;
+    }
+
+    .popular-img2 h2 {
+        left: 97px;
+    }
+
+    .popular-img2 h4 {
+        left: 167px;
+    }
+
+    .middle-img h5 {
+        left: 155px;
+    }
+
+    .middle-img h6 {
+        left: 185px;
+    }
+
+    .middle-text h3 {
+        left: 155px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .popular-text h2 {
+        font-size: 64px;
+    }
+
+    .popular-text h4 {
+        font-size: 24px;
+        top: 50px;
+        left: 90px;
+    }
+
+    .popular-img h4 {
+        left: 85px;
+    }
+
+    .popular-img h2 {
+        left: 187px;
+    }
+
+    .middle-img h5 {
+        left: 143px;
+    }
+
+    .middle-img h6 {
+        left: 187px;
+    }
+
+    .middle-text h3 {
+        left: 166px;
+    }
+
+    .jourenery-text h4 {
+        left: 80px;
+    }
+
+    .jourenery-text h5 {
+        left: 150px;
+    }
+
+    .jourenery-text2 h4 {
+        left: 173px;
+    }
+
+    .jourenery-text2 h5 {
+        left: 176px;
+    }
+
+    .jourenery-text3 h4 {
+        left: 173px;
+    }
+
+    .jourenery-text3 h5 {
+        left: 176px;
+    }
+
+    .application-form {
+        padding-left: 50px;
+    }
+
+    .best-text h2 {
+        font-size: 48px;
+    }
+
+    .best-text h4 {
+        left: 170px;
+        top: 84px;
+        font-size: 31px;
+    }
+
+    .best-img h5 {
+        left: 124px;
+    }
+
+    .btn-5 {
+        left: 182px;
+        top: 157px;
+    }
+
+    .service h2 {
+        font-size: 63px;
+    }
+
+    .service h4 {
+        top: 49px;
+        left: 141px;
+        font-size: 32px;
+    }
+
+    .trend-text h2 {
+        font-size: 56px;
+    }
+
+    .trend-text h4 {
+        font-weight: 500;
+        font-size: 36px;
+        top: 70px;
+        left: 109px;
+    }
+
+}
